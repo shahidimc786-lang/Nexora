@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "Premium dark-tech website for NEXORA - Website, mobile app and digital solution development. Build. Innovate. Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

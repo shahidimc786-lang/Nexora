@@ -1,0 +1,55 @@
+[
+  {
+    "id": "NEX-2026-0001",
+    "customerName": "Rohan Sharma",
+    "whatsapp": "9709429070",
+    "email": "rohan.sharma@example.com",
+    "brandName": "Apex Fitness Studio",
+    "projectType": "website",
+    "projectTypeName": "Website Development",
+    "projectConcept": "A sleek modern fitness and personal training studio website with workout plan showcase, trainer bios, and WhatsApp consultation booking.",
+    "requirements": "Need 4 pages: Home with hero animation, Class Schedule, Trainer Profiles, and Contact/Booking with direct WhatsApp connect.",
+    "features": [
+      "Mobile & Desktop Responsive UI",
+      "WhatsApp Live Chat Integration",
+      "Contact / Lead Capture Form",
+      "Search Engine Optimization (SEO)",
+      "Fast Loading & Performance Tuning"
+    ],
+    "deliveryDate": "2026-09-12",
+    "budget": "₹2,999 (Business Plan)",
+    "referenceLinks": "https://example.com/fitness-sample",
+    "files": [],
+    "totalAmount": 2999,
+    "currency": "INR",
+    "paymentStatus": "paid",
+    "paymentMethod": "UPI / QR Transfer",
+    "paymentTransactionId": "UPI-NEX-98218734",
+    "projectStatus": "development",
+    "statusHistory": [
+      {
+        "status": "received",
+        "note": "Order placed online with complete requirements.",
+        "updatedAt": "2026-09-01T10:30:00.000Z"
+      },
+      {
+        "status": "payment_verified",
+        "note": "Payment verified via UPI. Project scheduled.",
+        "updatedAt": "2026-09-01T11:15:00.000Z"
+      },
+      {
+        "status": "requirement_review",
+        "note": "Visual wireframes and dark-tech layout approved by client.",
+        "updatedAt": "2026-09-02T14:00:00.000Z"
+      },
+      {
+        "status": "development",
+        "note": "Active development of responsive UI and workout booking sections.",
+        "updatedAt": "2026-09-03T09:00:00.000Z"
+      }
+    ],
+    "adminNotes": "Client requested high-contrast dark aesthetic with cyan highlights. On track for delivery on Sept 12.",
+    "createdAt": "2026-09-01T10:30:00.000Z",
+    "updatedAt": "2026-09-03T09:00:00.000Z"
+  }
+]
